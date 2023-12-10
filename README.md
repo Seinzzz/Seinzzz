@@ -1,4 +1,7 @@
-# 👋 Hi, There!
+<p width="100%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
+</p>
+
 <p align="center" width="100%">
   <img width=""src="https://i.pinimg.com/originals/46/5e/76/465e76ef9c20b4e3dd4075c69306f74e.gif"/>
 </p>
@@ -18,10 +21,11 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 ![Windows](https://img.shields.io/badge/Windows-505050?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-505050?style=for-the-badge&logo=ubuntu&logoColor=white) ![VScode](https://img.shields.io/badge/VSCode-505050?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📫 How to reach me
-
-![instagram](https://img.shields.io/badge/Instagram-darkgrey?style=for-the-badge&logo=instagram&link=https%3A%2F%2Finstagram.com%2Fhsnzdn_
-)
-
+<p align="center">
+  <a href="https://www.instagram.com/hsnzdn_/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"/>
+  </a>
+</p>
 <!--
 **Seinzzz/Seinzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
