@@ -6,6 +6,14 @@
   <img width=""src="https://i.pinimg.com/originals/46/5e/76/465e76ef9c20b4e3dd4075c69306f74e.gif"/>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/seinzzz/count.svg?"  />
+</div>
+
+###
+
 Welcome to my cosy little space. There are a few things you can see here, but make sure you've grabbed a drink from the fridge.
 
 - 🗒️ More information/showcases available at [coming soon]()
