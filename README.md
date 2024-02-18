@@ -16,7 +16,7 @@
 
 Welcome to my cosy little space. There are a few things you can see here, but make sure you've grabbed a drink from the fridge.
 
-- 🗒️ More information/showcases available at [coming soon]()
+- 🗒️ More information/showcases available at [coming soon](https://github.com/Seinzzz/)
 
 [![Codewars](https://www.codewars.com/users/Seinzz/badges/small)](https://www.codewars.com/users/Seinzz)
 
