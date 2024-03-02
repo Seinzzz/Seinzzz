@@ -26,10 +26,10 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 <p >
   <a margin-right="20px" href="https://www.instagram.com/hsnzdn_/">
-    <img height="50" src="https://simpleicons.org/icons/instagram.svg"/>
+    <img height="42" width="42" src="https://cdn.simpleicons.org/instagram/" />
   </a>
   <a href="https://www.linkedin.com/in/husein-yarid-z-294344218/">
-    <img height="50" src="https://simpleicons.org/icons/linkedin.svg"/>
+    <img height="42" width="42" src="https://cdn.simpleicons.org/linkedin/"/>
   </a>
 </p>
 
