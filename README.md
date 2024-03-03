@@ -33,6 +33,14 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   </a>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/seinzzz/count.svg?"  />
+</div>
+
+###
+
 <!--
 **Seinzzz/Seinzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
