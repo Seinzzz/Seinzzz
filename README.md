@@ -35,9 +35,9 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   <a margin-right="20px" href="https://www.instagram.com/hsnzdn_/">
     <img height="42" width="42" src="https://cdn.simpleicons.org/instagram/" />
   </a>
-  <a href="https://www.linkedin.com/in/husein-y-294344218/">
+  <!-- <a href="https://www.linkedin.com/in//">
     <img height="42" width="42" src="https://cdn.simpleicons.org/linkedin/"/>
-  </a>
+  </a> -->
 </p>
 
 ###
