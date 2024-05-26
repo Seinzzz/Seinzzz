@@ -35,22 +35,22 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 ## 📫 How to reach me
 
 <div justify-content="center" >
-  <a margin-right="20px" href="https://www.instagram.com/hsnzdn_/">
+  <a margin-right="20px" target="_blank" href="https://www.instagram.com/hsnzdn_/">
     <img height="30" width="30" src="https://cdn.simpleicons.org/instagram/" />
   </a> 
-  <a margin-right="20px" href="https://x.com/_aantasena">
+  <a margin-right="20px" target="_blank" href="https://x.com/_aantasena">
     <img height="30" width="30" src="https://cdn.simpleicons.org/x/" />
   </a>
-  <a href="https://www.linkedin.com/in/husein-y-294344218/">
+  <a margin-right="20px" target="_blank" href="https://www.linkedin.com/in/husein-y-294344218/" >
     <img height="30" width="30" src="https://cdn.simpleicons.org/linkedin/"/>
   </a>
 </div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/seinzzz/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
