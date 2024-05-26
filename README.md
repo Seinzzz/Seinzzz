@@ -18,6 +18,9 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 ![TypeScript](https://img.shields.io/badge/typescript-323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![PHP](https://img.shields.io/badge/php-323330.svg?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
+![Dart](https://img.shields.io/badge/dart-323330?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Laravel](https://img.shields.io/badge/Laravel-323330.svg?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
+![Flutter](https://img.shields.io/badge/Flutter-323330.svg?style=for-the-badge&logo=Flutter&logoColor=02569B)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-323330.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -25,20 +28,23 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 ## 💻 OSes/tools I use...
 
-![Windows](https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23323330?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Windows](https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![VScode](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
 
 ## 📫 How to reach me
 
-<p >
+<div justify-content="center" >
   <a margin-right="20px" href="https://www.instagram.com/hsnzdn_/">
-    <img height="42" width="42" src="https://cdn.simpleicons.org/instagram/" />
+    <img height="30" width="30" src="https://cdn.simpleicons.org/instagram/" />
+  </a> 
+  <a margin-right="20px" href="https://x.com/_aantasena">
+    <img height="30" width="30" src="https://cdn.simpleicons.org/x/" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in//">
-    <img height="42" width="42" src="https://cdn.simpleicons.org/linkedin/"/>
-  </a> -->
-</p>
+  <a href="https://www.linkedin.com/in/husein-y-294344218/">
+    <img height="30" width="30" src="https://cdn.simpleicons.org/linkedin/"/>
+  </a>
+</div>
 
 ###
 
