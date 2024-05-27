@@ -8,11 +8,11 @@
 
 Welcome to my cosy little space. There are a few things you can see here, but make sure you've grabbed a drink from the fridge.
 
-- 🗒️ More information/showcases available at [coming soon]()
+🗒️ More information available at [coming soon]()
 
 [![Codewars](https://www.codewars.com/users/Seinzz/badges/small)](https://www.codewars.com/users/Seinzz)
 
-## 🌱 I’m currently learning...
+## 🌱 I’m currently learning
 
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
@@ -26,7 +26,7 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 ![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/mysql-323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-## 💻 OSes/tools I use...
+## 💻 OSes/tools I use
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23323330?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Windows](https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&logo=windows&logoColor=0078D4)
@@ -37,7 +37,7 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 <div justify-content="center" >
   <a margin-right="20px" target="_blank" href="https://www.instagram.com/hsnzdn_/">
     <img height="30" width="30" src="https://cdn.simpleicons.org/instagram/" />
-  </a> 
+  </a>
   <a margin-right="20px" target="_blank" href="https://x.com/_aantasena">
     <img height="30" width="30" src="https://cdn.simpleicons.org/x/" />
   </a>
