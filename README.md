@@ -41,12 +41,17 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   <a margin-right="20px" target="_blank" href="https://x.com/_aantasena">
     <img height="30" width="30" src="https://cdn.simpleicons.org/x/" />
   </a>
-  <a margin-right="20px" target="_blank" href="https://www.linkedin.com/in/husein-y-294344218/" >
+  <a margin-right="20px" target="_blank" href="https://www.linkedin.com/in/hyzidane/" >
     <img height="30" width="30" src="https://cdn.simpleicons.org/linkedin/"/>
   </a>
 </div>
 
-###
+<img
+  align="right"
+  src="https://visitor-badge.laobi.icu/badge?page_id=Seinzzz.Seinzzz"
+/>
+
+<!-- ### -->
 
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/seinzzz/count.svg?"  />
