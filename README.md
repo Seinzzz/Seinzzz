@@ -60,9 +60,9 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   </a>
 </div>
 
-<!-- <img
+<img
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=Seinzzz.Seinzzz"
-/> -->
+/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zmwocwp9pbzhnpohm649p0wjh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=262626&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
