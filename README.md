@@ -14,9 +14,9 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 ## 🌱 Tech Stack
 
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-323330.svg?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![Css](https://img.shields.io/badge/Css-323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/php-323330.svg?style=for-the-badge&logo=php&logoColor=777BB4)
 
 <!-- ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB) -->
@@ -60,30 +60,9 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   </a>
 </div>
 
-<img
+<!-- <img
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=Seinzzz.Seinzzz"
-/>
+/> -->
 
-<!-- ### -->
-
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/seinzzz/count.svg?"  />
-</div> -->
-
-###
-
-<!--
-**Seinzzz/Seinzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zmwocwp9pbzhnpohm649p0wjh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=262626&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
