@@ -15,11 +15,10 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 ## 🌱 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/Css-323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/HTML-323330.svg?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-![Css](https://img.shields.io/badge/Css-323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/php-323330.svg?style=for-the-badge&logo=php&logoColor=777BB4)
-
-<!-- ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB) -->
+![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ![NodeJS](https://img.shields.io/badge/nodeJs-323330?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Laravel](https://img.shields.io/badge/Laravel-323330.svg?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
@@ -64,5 +63,10 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=Seinzzz.Seinzzz"
 />
+<br>
+
+[![seinzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=seinzzz&show_icons=false&theme=catppuccin_mocha&hide_border=true&hide_rank=false&rank_icon=percentile&border_radius=15&custom_title=Seinzz's%20Stats&include_all_commits=true)](https://github.com/seinzzz)
+
+## 🎧 Listening
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zmwocwp9pbzhnpohm649p0wjh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=262626&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
