@@ -5,8 +5,9 @@
 <p align="center" width="100%">
   <img width=""src="https://i.pinimg.com/originals/46/5e/76/465e76ef9c20b4e3dd4075c69306f74e.gif"/>
 </p>
-
+<p align="center" width="100%">
 Welcome to my cosy little space. There are a few things you can see here, but make sure you've grabbed a drink from the fridge.
+</p>
 
 🗒️ More information available at [coming soon]()
 
@@ -29,15 +30,15 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 ![MySQL](https://img.shields.io/badge/mysql-323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-- Currently Exploring
+#### And Still Exploring
 
-  ![TypeScript](https://img.shields.io/badge/typescript-323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
-  ![BUN](https://img.shields.io/badge/bun-323330.svg?style=for-the-badge&logo=bun&logoColor=F9EBEA)
-  ![Hono](https://img.shields.io/badge/hono-323330.svg?style=for-the-badge&logo=hono&logoColor=E36002)
-  ![Express](https://img.shields.io/badge/express-323330.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![NEXTJS](https://img.shields.io/badge/next-323330.svg?style=for-the-badge&logo=nextdotjs&logoColor=)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-323330.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-  ![MongoDB](https://img.shields.io/badge/mongodb-323330.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![TypeScript](https://img.shields.io/badge/typescript-323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![BUN](https://img.shields.io/badge/bun-323330.svg?style=for-the-badge&logo=bun&logoColor=F9EBEA)
+![Express](https://img.shields.io/badge/express-323330.svg?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/hono-323330.svg?style=for-the-badge&logo=hono&logoColor=E36002)
+![NEXTJS](https://img.shields.io/badge/next-323330.svg?style=for-the-badge&logo=nextdotjs&logoColor=)
+![PostgreSQL](https://img.shields.io/badge/postgresql-323330.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/mongodb-323330.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 ## 💻 OSes/tools I use
 
@@ -58,15 +59,28 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
     <img height="30" width="30" src="https://cdn.simpleicons.org/linkedin"/>
   </a>
 </div>
-
+<!--
 <img
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=Seinzzz.Seinzzz"
-/>
+/> -->
 <br>
 
-[![seinzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=seinzzz&show_icons=false&theme=catppuccin_mocha&hide_border=true&hide_rank=false&rank_icon=percentile&border_radius=15&custom_title=Seinzz's%20Stats&include_all_commits=true)](https://github.com/seinzzz)
+<div align="center">
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=seinzzz&show_icons=false&theme=catppuccin_mocha&hide_border=true&hide_rank=false&rank_icon=percentile&border_radius=15&custom_title=Seinzz's%20Stats&include_all_commits=true"
+    alt="top langs"
+  />
+</div>
 
 ## 🎧 Listening
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zmwocwp9pbzhnpohm649p0wjh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=262626&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img
+    width="325"
+    align="center"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=zmwocwp9pbzhnpohm649p0wjh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=262626&interchange=false&bar_color=53b14f&bar_color_cover=false"
+    alt="spotify listening"
+  />
+</div>
