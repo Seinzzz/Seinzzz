@@ -50,17 +50,17 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 <div justify-content="center" >
   <a margin-right="20px" target="_blank" href="https://www.instagram.com/hsnzdn_/">
-    <img height="30" width="30" src="https://cdn.simpleicons.org/instagram" />
+    <img height="30" width="30" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   </a>
   <a margin-right="20px" target="_blank" href="https://x.com/_aantasena">
-    <img height="30" width="30" src="https://cdn.simpleicons.org/x" />
+    <img height="30" width="30" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
   </a>
-  <a margin-right="20px" target="_blank" href="https://www.linkedin.com/in/hyzidane/" >
-    <img height="30" width="30" src="https://cdn.simpleicons.org/linkedin"/>
+  <a href="https://www.linkedin.com/in/hyzidane/" target="_blank">
+    <img height="30" width="30" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdasd" height="30" width="40" />
   </a>
 </div>
-<!--
-<img
+
+<!-- <img
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=Seinzzz.Seinzzz"
 /> -->
