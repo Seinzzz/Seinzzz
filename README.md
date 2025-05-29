@@ -30,7 +30,7 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 ![MySQL](https://img.shields.io/badge/mysql-323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-#### And Still Exploring
+#### Exploring
 
 ![TypeScript](https://img.shields.io/badge/typescript-323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![BUN](https://img.shields.io/badge/bun-323330.svg?style=for-the-badge&logo=bun&logoColor=F9EBEA)
@@ -48,7 +48,7 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 ## 📫 How to reach me
 
-<div justify-content="center" >
+<div align="center" >
   <a margin-right="20px" target="_blank" href="https://www.instagram.com/hsnzdn_/">
     <img height="30" width="30" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   </a>
