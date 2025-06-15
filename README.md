@@ -16,8 +16,8 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 ## 🌱 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/Css-323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
-![HTML](https://img.shields.io/badge/HTML-323330.svg?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/Css-323330.svg?style=for-the-badge&logo=css&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/HTML-323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![PHP](https://img.shields.io/badge/php-323330.svg?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 
