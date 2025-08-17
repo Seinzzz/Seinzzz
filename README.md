@@ -74,13 +74,13 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   />
 </div>
 
-## 🎧 Listening
+<!-- ## 🎧 Listening -->
 
-<div align="center">
+<!-- <div align="center">
   <img
     width="325"
     align="center"
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=zmwocwp9pbzhnpohm649p0wjh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=262626&interchange=false&bar_color=53b14f&bar_color_cover=false"
     alt="spotify listening"
   />
-</div>
+</div> -->
