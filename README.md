@@ -9,7 +9,7 @@
 Welcome to my cosy little space. There are a few things you can see here, but make sure you've grabbed a drink from the fridge.
 </p>
 
-🗒️ More information available at [coming soon]()
+🗒️ More information available at [here](https://hyzdne.vercel.app/)
 
 [![Codewars](https://www.codewars.com/users/Seinzz/badges/small)](https://www.codewars.com/users/Seinzz)
 
@@ -36,20 +36,21 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 
-![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![BUN](https://img.shields.io/badge/bun-323330.svg?style=for-the-badge&logo=bun&logoColor=F9EBEA)
 ![Hono](https://img.shields.io/badge/hono-323330.svg?style=for-the-badge&logo=hono&logoColor=E36002)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-323330.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ## 💻 OSes/tools I use
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23323330?style=for-the-badge&logo=ubuntu&logoColor=#E95420)
 ![Docker](https://img.shields.io/badge/Docker-%23323330?style=for-the-badge&logo=Docker&logoColor=#2496ED)
+![Pi](https://img.shields.io/badge/pi-323330?style=for-the-badge&logo=pi&logoColor=F69A3E)
 
 ## 📫 Contact me here
 
 <div align="center" >
-  <a margin-right="20px" target="_blank" href="https://www.instagram.com/hsnzdn_/">
+  <a margin-right="20px" target="_blank" href="https://www.instagram.com/hyzdne/">
     <img height="30" width="30" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   </a>
   <a margin-right="20px" target="_blank" href="https://x.com/_aantasena">
@@ -60,27 +61,9 @@ Welcome to my cosy little space. There are a few things you can see here, but ma
   </a>
 </div>
 
-<!-- <img
-  align="right"
-  src="https://visitor-badge.laobi.icu/badge?page_id=Seinzzz.Seinzzz"
-/> -->
-<br>
+###
 
-<div align="center">
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=seinzzz&show_icons=false&theme=catppuccin_mocha&hide_border=true&hide_rank=false&rank_icon=percentile&border_radius=15&custom_title=Seinzz's%20Stats&include_all_commits=true"
-    alt="top langs"
-  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/seinzzz/seinzzz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=seinzzz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-<!-- ## 🎧 Listening -->
-
-<!-- <div align="center">
-  <img
-    width="325"
-    align="center"
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=zmwocwp9pbzhnpohm649p0wjh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=262626&interchange=false&bar_color=53b14f&bar_color_cover=false"
-    alt="spotify listening"
-  />
-</div> -->
